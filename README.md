@@ -1,9 +1,6 @@
 # Data visualization dashboard using node.js
 
 
-## DemoVideo
-
-[Youtube](https://youtu.be/ACjjrPRES3g)
 
 ## Project setup
 ```
