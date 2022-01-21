@@ -3,7 +3,7 @@
 
 ## Demo
 
-[YT LINKS](https://youtu.be/MKPFFhNvG7o)
+[YT LINK](https://youtu.be/MKPFFhNvG7o)
 
 
 ## Project setup
